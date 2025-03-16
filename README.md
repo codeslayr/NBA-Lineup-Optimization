@@ -1,5 +1,10 @@
 # NBA Lineup Optimization: Fifth Player Prediction
 
+Group 6 Members:
+Abdurrahman Ansari
+Sahil Ketkar
+Yash Chiragbhai Shah
+
 ## Overview  
 This project predicts the optimal fifth player for a home team in NBA games using historical data (2007–2015). It leverages machine learning models to analyze player embeddings, lineup synergies, and game statistics, evaluating performance through accuracy, AUC-ROC, and F1-scores. The best-performing model (KNN with PCA) achieves **71.49% accuracy**, outperforming Logistic Regression, SVM, Neural Networks, and Random Forest.
 
