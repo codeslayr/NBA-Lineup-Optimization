@@ -1,7 +1,7 @@
 # NBA Lineup Optimization: Fifth Player Prediction
 
 Group 6 Members:
-Abdurrahman Ansari
+Abdurrahman Ansari <br/>
 Sahil Ketkar
 Yash Chiragbhai Shah
 
