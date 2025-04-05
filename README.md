@@ -67,3 +67,22 @@ CSV files (`matchups-YYYY.csv`) with columns:
    pip install numpy pandas scikit-learn keras matplotlib seaborn
 2. **Ensure CSV files are in the working directory.**
 3. **Run the script**: Use Google Colab or Jupyter Notebook for sequential code compilation and execution.
+
+## Results
+5th Player Prediction with Single Highest Probable Player
+
+![Alt text](results/Single_Player_Accuracy.png?raw=true "Single Player Overall Average Accuracy")
+
+![Alt text](results/Single_Player_Prediction.png?raw=true "Single Player Year on Year Accuracy")
+
+5th Player Prediction with 3 Highest Probable Players
+
+![Alt text](results/3_Player_Accuracy.png?raw=true "3 Player Overall Average Accuracy")
+
+![Alt text](results/3_Player_Prediction.png?raw=true "3 Player Year on Year Accuracy")
+
+5th Player Prediction with 5 Highest Probable Players
+
+![Alt text](results/5_Player_Accuracy.png?raw=true "5 Player Overall Average Accuracy")
+
+![Alt text](results/5_Player_Prediction.png?raw=true "5 Player Year on Year Accuracy")
